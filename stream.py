@@ -12,7 +12,7 @@ st.markdown("Currently working as interface analyst at Veradigm(Markdown)")
 st.caption("Looking for new opportunities(Caption)")
 
 st.image("xyz.png")
-st.video("Sample_file.MP4")
+st.video("Sample_file.mp4")
 
 st.checkbox('checkbox')
 st.button('Click button')
